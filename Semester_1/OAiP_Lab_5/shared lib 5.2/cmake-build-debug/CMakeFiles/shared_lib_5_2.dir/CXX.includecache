@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++ projects/OAiP_Lab_5/shared lib 5.2/task2.cpp
+task2.h
+D:/C++ projects/OAiP_Lab_5/shared lib 5.2/task2.h
+iostream
+-
+
+D:/C++ projects/OAiP_Lab_5/shared lib 5.2/task2.h
+

@@ -1,0 +1,3 @@
+D:/C++ projects/OAiP_Lab_6/Task_6.7/cmake-build-debug/CMakeFiles/Task_6_7.dir
+D:/C++ projects/OAiP_Lab_6/Task_6.7/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++ projects/OAiP_Lab_6/Task_6.7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

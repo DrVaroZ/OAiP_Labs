@@ -1,0 +1,4 @@
+D:/C++ projects/OAiP_Lab_5/shared lib 5.2/cmake-build-debug/CMakeFiles/test_shared_library.dir
+D:/C++ projects/OAiP_Lab_5/shared lib 5.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/C++ projects/OAiP_Lab_5/shared lib 5.2/cmake-build-debug/CMakeFiles/shared_lib_5_2.dir
+D:/C++ projects/OAiP_Lab_5/shared lib 5.2/cmake-build-debug/CMakeFiles/edit_cache.dir

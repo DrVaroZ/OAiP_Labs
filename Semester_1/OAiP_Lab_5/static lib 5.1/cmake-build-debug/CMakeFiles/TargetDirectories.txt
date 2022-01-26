@@ -1,0 +1,4 @@
+D:/C++ projects/OAiP_Lab_5/static lib 5.1/cmake-build-debug/CMakeFiles/test_static_library.dir
+D:/C++ projects/OAiP_Lab_5/static lib 5.1/cmake-build-debug/CMakeFiles/static_lib_5_1.dir
+D:/C++ projects/OAiP_Lab_5/static lib 5.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++ projects/OAiP_Lab_5/static lib 5.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

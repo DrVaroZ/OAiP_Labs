@@ -1,0 +1,3 @@
+D:/C++ projects/OAiP_Lab_8/Task_8.2_without_file/cmake-build-debug/CMakeFiles/Task_8_2_without_file.dir
+D:/C++ projects/OAiP_Lab_8/Task_8.2_without_file/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++ projects/OAiP_Lab_8/Task_8.2_without_file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
